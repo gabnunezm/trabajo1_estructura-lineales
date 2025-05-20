@@ -1,2 +1,2 @@
-# trabajo1_estructura-lineales
+# SOBRE EL PROYECTO
  Estructura de Datos: Trabajo 1 - Introducción y Estructuras Lineales
